@@ -1,6 +1,6 @@
-# ffmpeg常用命令
+# ffmpeg
 
-音视频剪切命令
+* Command of 
 ```
 ffmpeg -i input.mp3 -ss 00:00:00 -to 00:00:30 -c copy output.mp3
 ```
